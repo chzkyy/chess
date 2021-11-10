@@ -1,5 +1,3 @@
-| chess |
-
-| make chess design with three.js |
-
+Chess
+make chess design with three.js
 
